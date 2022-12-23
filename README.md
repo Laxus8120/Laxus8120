@@ -37,7 +37,7 @@ All coding projects are built from the ground up, from planning and designing al
 
 <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" />
 <img align="left" alt="visual studio code" width="40px" style="padding-right:10px;" src="https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" />
-<img align="left" alt="IntelliJ IDEA" width="40px" style="padding-right:10px;" src="shorturl.at/fBHLN" />
+<img align="left" alt="GitHub Desktop" width="40px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/IntelliJ_IDEA_Edu_Icon.svg/2048px-IntelliJ_IDEA_Edu_Icon.svg.png" />
 <img align="left" alt="GitHub Desktop" width="40px" style="padding-right:10px;" src="https://miro.medium.com/max/600/1*p6exlg2Jrl3pimjPy7R-sA.png" />
 <img align="left" alt="Photoshop" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
           
