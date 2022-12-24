@@ -1,9 +1,17 @@
 # 🏄‍♂️ HEMANT RAWAT
 
-**` Craftsman (Developer/Artist/SportsPerson)`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Craftsman;(Developer%2FArtist%2FSportsPerson))](https://git.io/typing-svg)
 
 I'm a fresher, who is learning the Backend Devlopment and content creator building my best version of the digital world one step at a time.
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+`In free time i try to do leetCode.` 
+
+<a href = "https://leetcode.com/Laxus8120/"> 
+<img align="left" alt="LeetCodeProfile" width="60px" style="padding-right:10px;" src="https://external-preview.redd.it/tGVBnJXuSYF2ATLx6yciGgwOxDbPPi0vvHYS0xN4Qgw.jpg?auto=webp&s=6809de0a12a4d5ba00f0782d2d6dfd973c07278d" /></a>
+<a href = "[https://leetcode.com/Laxus8120/](https://www.linkedin.com/in/hemant-rawat-545a7a210/)"> 
+<img align="left" alt="LinkDinProfile" width="80px" style="padding-right:10px; " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGo_Rfn5wS_S3o1rKuwgtGuqKZDN7wVN4uiQ&usqp=CAU" /></a>
+
+<br/>
 
 ---
   
@@ -40,4 +48,14 @@ All coding projects are built from the ground up, from planning and designing al
 <img align="left" alt="GitHub Desktop" width="40px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/IntelliJ_IDEA_Edu_Icon.svg/2048px-IntelliJ_IDEA_Edu_Icon.svg.png" />
 <img align="left" alt="GitHub Desktop" width="40px" style="padding-right:10px;" src="https://miro.medium.com/max/600/1*p6exlg2Jrl3pimjPy7R-sA.png" />
 <img align="left" alt="Photoshop" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-          
+<img align="left" alt="Sequelize" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+ 
+ <br/>
+ 
+ ---
+ 
+<details open>
+<summary><h2>🏄‍ My Hobbies Section </h2></summary>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
