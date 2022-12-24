@@ -53,9 +53,21 @@ All coding projects are built from the ground up, from planning and designing al
  <br/>
  
  ---
- 
-<details open>
-<summary><h2>🏄‍ My Hobbies Section </h2></summary>
+ ##
+ ## 📊 Github Stats and Activity
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+ ### 🔥 Streak Stats
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Laxus8120)](https://git.io/streak-stats)
+
+ ---
+ 
+ ## 
+ <details open>
+ <summary><h2>🏄‍ My Hobbies Section </h2></summary>
+
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Visit+The+Insta-Page+By+Clicking+icon)](https://www.instagram.com/laxus_8120/)
+  
+ <a href = "https://www.instagram.com/laxus_8120/"> 
+<img align="left" alt="INSTA" width="80px" style="padding-right:50px;" src="https://i.pinimg.com/originals/17/76/0a/17760a6daad2edf7f4d9b837b5437246.jpg" /></a>
