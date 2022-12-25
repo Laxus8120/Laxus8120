@@ -1,6 +1,6 @@
 # 🏄‍♂️ HEMANT RAWAT
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Craftsman;(Developer%2FArtist%2FSportsPerson))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Craftsman;(Developer%2FArtist%2FSportsPerson))](https://github.com/Laxus8120/)
 
 I'm a fresher, who is learning the Backend Devlopment and content creator building my best version of the digital world one step at a time.
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
@@ -56,7 +56,8 @@ All coding projects are built from the ground up, from planning and designing al
  ##
  ## 📊 Github Stats and Activity
 
- ### 🔥 Streak Stats
+ ### 🔥 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Streak)](https://github.com/Laxus8120/)
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Laxus8120)](https://git.io/streak-stats)
 
