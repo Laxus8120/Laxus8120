@@ -60,7 +60,7 @@ All coding projects are built from the ground up, from planning and designing al
  ### 🔥 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Streak)](https://github.com/Laxus8120/)
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Laxus8120)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Laxus8120&theme=dark)](https://git.io/streak-stats)
 
  ---
  
