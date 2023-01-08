@@ -71,7 +71,7 @@ All coding projects are built from the ground up, from planning and designing al
  ---
  
  ## 
- <details open>
+ <details close>
  <summary><h2>🏄‍ My Hobbies Section </h2></summary>
 
   
