@@ -8,7 +8,7 @@ All coding projects are built from the ground up, from planning and designing al
 
 <a href = "https://leetcode.com/Laxus8120/"> 
 <img align="left" alt="LeetCodeProfile" width="60px" style="padding-right:10px;" src="https://external-preview.redd.it/tGVBnJXuSYF2ATLx6yciGgwOxDbPPi0vvHYS0xN4Qgw.jpg?auto=webp&s=6809de0a12a4d5ba00f0782d2d6dfd973c07278d" /></a>
-<a href = "[https://leetcode.com/Laxus8120/](https://www.linkedin.com/in/hemant-rawat-545a7a210/)"> 
+<a href = "https://www.linkedin.com/in/hemant-rawat-545a7a210/"> 
 <img align="left" alt="LinkDinProfile" width="80px" style="padding-right:10px; " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGo_Rfn5wS_S3o1rKuwgtGuqKZDN7wVN4uiQ&usqp=CAU" /></a>
 <img align="left" alt="Gmail" width="250px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/mail-hemantrawat812@gmail.com-red.svg?logo=mail&logoColor=white)" />
 <img align="left" alt="Contact" width="170px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Contact-9720943003-blue.svg?logo=Phone&logoColor=white)" />
@@ -58,10 +58,9 @@ All coding projects are built from the ground up, from planning and designing al
  
  ## 📊 Github Stats and Activity
  
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Stats)](https://github.com/Laxus8120/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Stats)](https://github.com/Laxus8120/)
 
-[![Hemant GitHub stats](https://github-readme-stats.vercel.app/api?username=Laxus8120)](https://github.com/anuraghazra/github-readme-stats)
-## -->
+![Hemant GitHub stats](https://github-readme-stats.vercel.app/api?username=Laxus8120&show_icons=true&theme=great-gatsby)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Streak)](https://github.com/Laxus8120/)
 
@@ -71,7 +70,7 @@ All coding projects are built from the ground up, from planning and designing al
  ---
  
  ## 
- <details open>
+ <details close>
  <summary><h2>🏄‍ My Hobbies Section </h2></summary>
 
   
