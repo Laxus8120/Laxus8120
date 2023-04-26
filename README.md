@@ -58,9 +58,9 @@ All coding projects are built from the ground up, from planning and designing al
  
  ## 📊 Github Stats and Activity
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Stats)](https://github.com/Laxus8120/)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Stats)](https://github.com/Laxus8120/)
 
-![Hemant GitHub stats](https://github-readme-stats.vercel.app/api?username=Laxus8120&show_icons=true&theme=darcula)
+![Hemant GitHub stats](https://github-readme-stats.vercel.app/api?username=Laxus8120&show_icons=true&theme=darcula) -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Streak)](https://github.com/Laxus8120/)
 
