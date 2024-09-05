@@ -15,8 +15,6 @@ All coding projects are built from the ground up, from planning and designing al
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=31&lines=+%F0%9F%92%BB+Technologies+and+Tools)](https://git.io/typing-svg)
 
-<img align="right" alt="Coder GIF" height=300 width=350 src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-annual-100.gif" />
-
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
